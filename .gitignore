@@ -1,0 +1,18 @@
+movie*/
+*.pkl
+**/__pycache__/
+ctx_embedding_output/
+data/retriever/
+data/retriever_results/
+movie_test_result
+results/
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+core.*
+ctx_embedding_output/*
+results/*
+data/retriever/*
+Pipfile
+Pipfile.lock
